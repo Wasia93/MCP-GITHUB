@@ -1,0 +1,29 @@
+# Google Gemini AI Model
+
+Google Gemini is a family of multimodal artificial intelligence (AI) models developed by Google. It is designed to process and understand various types of data, including audio, images, software code, text, and video. Gemini serves as the underlying large language model (LLM) for Google's generative AI chatbot, also named Gemini, and is integrated across numerous Google products and services.
+
+## Key Capabilities and Features:
+
+*   **Multimodality:** Gemini models can handle interleaved sequences of audio, image, text, and video as inputs, and can produce interleaved text and image outputs. This allows for advanced understanding and generation across different data types.
+*   **Advanced Coding:** Gemini excels in coding tasks, capable of understanding, explaining, and generating code across languages like C++, Java, and Python. Fine-tuned versions have been used to develop systems like AlphaCode2 for competitive programming.
+*   **Reasoning and Problem-Solving:** Newer versions, particularly Gemini 3 Pro, demonstrate enhanced reasoning and problem-solving capabilities, including the ability to follow complex instructions, analyze large datasets and codebases, and perform multi-step tasks.
+*   **Agentic AI:** Gemini 2.0 and 3 are designed with agentic AI in mind, enabling them to not only understand and generate content but also to take action, interact with external tools (like Google Search and APIs), and execute code to complete tasks.
+*   **Long Context Window:** Models like Gemini 1.5 Pro and Gemini 3 Pro feature a long context window, allowing them to process and analyze extensive amounts of information, such as entire books or large code repositories.
+*   **Language Translation and Understanding:** Gemini supports speech recognition across over 100 languages and assists in various language translation tasks.
+*   **Integration with Google Products:** Gemini is integrated into Google Workspace (Gmail, Docs), Google Maps, Android devices (replacing Google Assistant on some Pixel phones), and the Google app on iOS.
+
+## Gemini Model Versions:
+
+The Gemini family includes several variants optimized for different devices and tasks:
+
+*   **Gemini 1.0 Nano:** Designed for mobile devices.
+*   **Gemini 1.0 Ultra:** A larger version with advanced analytical capabilities.
+*   **Gemini 1.5 Pro:** A midsized multimodal model with a context window of up to 2 million tokens.
+*   **Gemini 1.5 Flash:** A lightweight version of Gemini Pro, optimized for speed and efficiency in high-volume tasks.
+*   **Gemini 2.0 Pro, Flash, and Flash-Lite:** Introduced with agentic AI capabilities.
+*   **Gemini 3 Pro:** Google's most intelligent model, offering significant improvements in multimodal understanding, agentic capabilities, and coding. It is available in preview and features a 1M token context window.
+*   **Gemini 3 Deep Think:** An upcoming mode for Ultra subscribers, pushing the boundaries of intelligence for complex problems.
+
+## Access and Availability:
+
+Users can interact with Gemini through the Gemini chatbot (gemini.google.com), the Gemini mobile app, and via the Gemini API in Google AI Studio and Google Cloud Vertex AI development platforms. Paid subscriptions like "Gemini Advanced with Ultra 1.0" (now upgraded to Gemini 1.5 Pro) offer enhanced features.
